@@ -1,6 +1,6 @@
 # Project Ideas
 ## Programming challenges
-![](res/challenge_1.png)
+![](res/challenges_1.png)
 
 ## An extended list of project ideas:
 * [40 Side Project Ideas for Software Engineers](https://www.codementor.io/npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
