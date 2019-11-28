@@ -1,5 +1,8 @@
 # Project Ideas
-An extended list of project ideas:
+## Programming challenges
+![](res/challenges_1.png)
+
+## An extended list of project ideas:
 * [40 Side Project Ideas for Software Engineers](https://www.codementor.io/npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
 * [App Ideas Collection](http://www.ideaswatch.com/startup-ideas/app)
 * [Make your own...](https://github.com/danistefanovic/build-your-own-x)
