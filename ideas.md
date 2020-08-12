@@ -4,6 +4,7 @@
 
 ## An extended list of project ideas:
 * [40 Side Project Ideas for Software Engineers](https://www.codementor.io/npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
+* [App Ideas Collection](https://www.ideaswatch.com/startup-ideas/online-ideas)
 * [Make your own...](https://github.com/danistefanovic/build-your-own-x)
 * [Practical Projects](https://github.com/karan/Projects)
 * [1000+ Beginner Programming Projects](https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
