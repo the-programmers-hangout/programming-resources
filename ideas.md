@@ -9,7 +9,6 @@
 - [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
 - [Project Based Learning](https://github.com/tuvtran/project-based-learning)
 - [Rosetta Code](http://rosettacode.org/wiki/Category:Programming_Tasks)
-- [Epic List Of Side Project Ideas For Programmers](https://livingliferichly.com/epic-list-of-side-project-ideas-for-programmers)
 - [5 project ideas](https://medium.com/@JohanneA/5-project-ideas-for-programmers-who-dont-know-what-to-work-on-next-51fdb191cbde)
 
 ## Programming Challenges
