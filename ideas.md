@@ -123,6 +123,7 @@
 70. **Bismuth fractal**
 71. **Seam carving**
 72. **Bayesian Filter**
+73. **Rubik's cube solver**
 
 ### Difficult
 1. **Parametric/Graphic equalizer for .wav files**
