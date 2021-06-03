@@ -2,6 +2,7 @@ Competitons to participate in when you are bored, or just want to code!
 
 - [Code Chef](https://www.codechef.com/)
 - [HackerEarth](https://www.hackerearth.com/challenges/)
+- [Hackerrank](https://www.hackerrank.com/)
 - [Top Coder](https://www.topcoder.com/)
 - [Google Code Jam](https://code.google.com/codejam/)
 - [CoderByte](https://www.coderbyte.com/)
@@ -9,3 +10,6 @@ Competitons to participate in when you are bored, or just want to code!
 - [Excercism.io](https://exercism.io/)
 - [CodeWars](https://www.codewars.com/)
 - [Rosalind](http://rosalind.info/)
+- [Leetcode](https://leetcode.com/)
+- [Codingame](https://www.codingame.com/)
+- [SPOJ](https://www.spoj.com/)
