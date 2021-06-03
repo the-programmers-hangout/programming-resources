@@ -157,4 +157,4 @@
 1. **Relational database system** (SQL support, relationships, efficient)
 2. **Bootloader**
 3. **General Lambert's problem solver**
-4. **Concolutional Neural Network** - Implement your own convolutional neural network for handwritten digit recognition, test on MNIST dataset
+4. **Convolutional Neural Network** - Implement your own convolutional neural network for handwritten digit recognition, test on MNIST dataset
